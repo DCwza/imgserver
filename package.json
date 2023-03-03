@@ -1,13 +1,12 @@
 {
   "name": "imageserver",
   "version": "1.0.0",
-  "description": "",
   "main": "imageserver.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "engines" : {
-    "node" : "18.12.1"
+  "engines": {
+    "node": "18.12.1"
   },
   "keywords": [],
   "author": "",
@@ -15,5 +14,14 @@
   "dependencies": {
     "express": "^4.18.2",
     "pug": "^3.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/myidee/imgserver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/myidee/imgserver/issues"
+  },
+  "homepage": "https://github.com/myidee/imgserver#readme",
+  "description": ""
 }
